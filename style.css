@@ -1,0 +1,171 @@
+@font-face { font-family: Righteous-Regular; font-weight: bold; src: url('Righteous-Regular.ttf');}
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    max-width: 1903px;
+}
+.first-page{
+    padding: 0px 5vw;
+    height: 70vh;
+    color: white;  
+    background-color: #4A154C;
+}
+
+.header{
+   
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 100% !important;
+    flex-direction: row;
+}
+
+.box1{
+    display: inline-block;
+    margin-top: 2vh;
+    
+}
+
+.box2{
+    display: inline-block;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 2vh;
+
+}
+#home{
+    display: flex;
+    align-items: center;
+}
+.content{
+    width: 70%;
+    text-align: center;
+    font-family: ;
+}
+.a{
+    font-family: Righteous-Regular;
+    src: url("Righteous-Regular.ttf");
+    font-size: 6rem;
+    line-height: 119px;
+}
+.b{
+    font-family: Righteous-Regular;
+    font-size: 4rem;
+    line-height: 79px;
+}
+.c{
+    font-family: Righteous-Regular;
+    font-size: 3rem;
+    line-height: 60px;
+}
+.image1{
+    width:30%;
+}
+.image2{
+    background-color: #4A154C;
+}
+.about{
+    background-color: aqua;
+
+}
+.rounded-lg1{
+    background-color: #1E95F6;
+    color: white;
+    border-radius: 40px;
+    width: 200px;
+    height: 70px;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+
+}
+#about{
+    background: linear-gradient(119.66deg, #4A154C 0%, #25306A 73.23%);
+    position: relative;
+    left: 0%;
+    right: 0%;
+    top: 100%;
+    bottom: 100%;
+}
+.image3{
+    Width:252px;
+    Height:251px;
+    position: relative;
+    left: 13em;
+    top: 10em;
+    bottom: 3em;
+}
+
+#first{
+    text-align: right;
+    Width:40em;
+    Height:5em;
+    position: relative;
+    left: 65em;
+    bottom: 10em;
+    
+}
+#second{
+    text-align: left;
+    Width:40em;
+    Height:5em;
+    position: relative;
+    left: 13em;
+    top: 10em;
+    bottom: 3em;
+
+}
+.image4{
+    position: relative;
+     left: 82em;
+     bottom: 5em;
+     width: 400px;
+}
+
+#work1{
+    background-color: rgb(124, 221, 238); 
+    position: relative;
+    max-width: 1903px;
+    height: 3069px;
+    left: 0%;
+    right: 0%;
+    top: 100%;
+    bottom: 1.34em;
+
+}
+.work{
+    Width:40em;
+    Height:10em;
+    text-align: center;  
+    position: relative;
+    left: 40em;
+    top: -703;
+    bottom: 703px;
+}
+
+.image5{
+
+    position: relative;
+    bottom: 0em;
+}  
+
+.image6{
+    position: relative;
+    right:50em;
+    bottom:5em;
+}
+.moon h1{
+    position: relative;
+    left:26em;
+}
+.rounded-lg2{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 40px;
+    width: 200px;
+    height: 70px;
