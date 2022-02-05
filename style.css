@@ -5,7 +5,7 @@ body{
     color: white;
     max-width: 1903px;
 }
-.first-page{
+#first-page{
     padding: 0px 5vw;
     height: 70vh;
     color: white;  
@@ -169,3 +169,15 @@ a{
     border-radius: 40px;
     width: 200px;
     height: 70px;
+}
+.rounded-lg3 {
+    background-color: #1E95F6;
+    color: white;
+    border-radius: 40px;
+    width: 200px;
+    height: 70px;
+    position: relative;
+    left: -45px;
+    top: -349px;
+  }
+
